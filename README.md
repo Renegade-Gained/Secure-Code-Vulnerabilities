@@ -1,7 +1,7 @@
 # Secure-Code-Vulnerabilities
 Repository for the project from college class "Secure Code Vulnerabilities II"
 
-Project was produced as a three man team.
+Project was produced as part of a three man team.
 
 # Steps to Reproduce Project
 1. Install Visual Studio Code
